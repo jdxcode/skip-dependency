@@ -1,14 +1,10 @@
 {
   "name": "@jdxcode/skip-dependency",
   "description": "Skip pesky dependencies with ease",
-  "author": "@favware",
+  "author": ["@favware", "@jdxcode"],
   "version": "1.0.3",
-  "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/jdxcode/skip-dependency",
-  "files": [
-    "index.js"
-  ],
   "engines": {
     "node": ">=10",
     "npm": ">=50",
@@ -22,7 +18,6 @@
     "url": "https://github.com/jdxcode/skip-dependency/issues"
   },
   "keywords": [
-    "favware",
     "node",
     "yarn"
   ],
