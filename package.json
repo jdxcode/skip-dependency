@@ -2,7 +2,7 @@
   "name": "@jdxcode/skip-dependency",
   "description": "Skip pesky dependencies with ease",
   "author": "@favware",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "homepage": "https://github.com/jdxcode/skip-dependency",
