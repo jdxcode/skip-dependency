@@ -1,11 +1,11 @@
 {
-  "name": "@favware/skip-dependency",
+  "name": "@jdxcode/skip-dependency",
   "description": "Skip pesky dependencies with ease",
   "author": "@favware",
   "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://favware.tech",
+  "homepage": "https://github.com/jdxcode/skip-dependency",
   "files": [
     "index.js"
   ],
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/favware/skip-dependency.git"
+    "url": "git+https://github.com/jdxcode/skip-dependency.git"
   },
   "bugs": {
-    "url": "https://github.com/favware/skip-dependency/issues"
+    "url": "https://github.com/jdxcode/skip-dependency/issues"
   },
   "keywords": [
     "favware",
